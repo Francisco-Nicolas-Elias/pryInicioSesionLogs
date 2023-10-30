@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryInicioSesionLogs", "pryInicioSesionLogs\pryInicioSesionLogs.csproj", "{59C0E51D-71A9-4508-93F7-642387AD732F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C0E51D-71A9-4508-93F7-642387AD732F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C0E51D-71A9-4508-93F7-642387AD732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C0E51D-71A9-4508-93F7-642387AD732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C0E51D-71A9-4508-93F7-642387AD732F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F12F60-3979-431F-93C4-5E7F1AE5FB12}
+	EndGlobalSection
+EndGlobal
